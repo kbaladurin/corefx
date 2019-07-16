@@ -88,4 +88,4 @@ Daily builds of .NET Core components are published to dotnet-blob feed (https://
 The latest version number of each library can be seen in that feed.
 Currently, there is no website to visualize the contents of the feed, so in order to do so, you have to use a NuGet feed explorer, like Visual Studio.
 
-11Note: See officially supported [OS versions](https://github.com/dotnet/core/blob/master/os-lifecycle-policy.md).
+211Note: See officially supported [OS versions](https://github.com/dotnet/core/blob/master/os-lifecycle-policy.md).
