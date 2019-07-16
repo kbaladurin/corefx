@@ -89,3 +89,4 @@ The latest version number of each library can be seen in that feed.
 Currently, there is no website to visualize the contents of the feed, so in order to do so, you have to use a NuGet feed explorer, like Visual Studio.
 
 Note: See officially supported [OS versions](https://github.com/dotnet/core/blob/master/os-lifecycle-policy.md).
+541112
